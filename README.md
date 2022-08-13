@@ -1,1 +1,1 @@
-# estudos_avancados_met_pesquisa
+Repositório da disciplina Estudos Avançados em Metodologia de Pesquisa - PPGCP
